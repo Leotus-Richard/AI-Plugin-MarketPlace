@@ -1,0 +1,347 @@
+{
+  "formatVersion": 1,
+  "plugins": [
+    {
+      "name": "agent-instruction-authoring",
+      "sha": "2ed7db6304518e06a8b00fa49b6a39f368fcdbd6",
+      "repository": "Leotus-Richard/agent-instruction-authoring",
+      "version": "0.1.0",
+      "description": "Focused skill/instruction authoring and portability review, without auto-installing the result.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/agent-instruction-authoring/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "agent-role-presets",
+      "sha": "60ea332489ce66a8ef23547d4beadc55ee8980b4",
+      "repository": "Leotus-Richard/agent-role-presets",
+      "version": "0.1.0",
+      "description": "Configure advisor, researcher, librarian, tutor, editor, and cross-domain perspectives for a task.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/agent-role-presets/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "agent-workflow-design",
+      "sha": "08bc4ebd0487035d3e7b70bba1d1bb613905bff7",
+      "repository": "Leotus-Richard/agent-workflow-design",
+      "version": "0.1.0",
+      "description": "Workflow graphs, bounded coordination, comparison rubrics, and handoffs; no scheduler/runtime.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/agent-workflow-design/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "application-verification",
+      "sha": "c4ba017a39a4a481df4d38e66ff6d227608c57f9",
+      "repository": "Leotus-Richard/application-verification",
+      "version": "0.1.0",
+      "description": "Create and maintain application verification harnesses, exercise CLI/UI behavior, and assess performance evidence.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/application-verification/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "applied-learning",
+      "sha": "0b7900cc3deb1a1af0805ff1f287619284634493",
+      "repository": "Leotus-Richard/applied-learning",
+      "version": "0.1.0",
+      "description": "Learn technical material through focused explanation, critical questions, recall, and practical exercises.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/applied-learning/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "code-quality-review",
+      "sha": "add467aaeb1f79b3681443b948b8c2a7b592c52c",
+      "repository": "Leotus-Richard/code-quality-review",
+      "version": "0.1.0",
+      "description": "Review changes for correctness and design quality, and simplify generated code without changing required behavior.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/code-quality-review/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "frontend-design",
+      "sha": "0ca35207e73ce8db9ad84b2675a234e77288853e",
+      "repository": "Leotus-Richard/frontend-design",
+      "version": "0.1.0",
+      "description": "Design, review, and refine frontend interfaces using portable Impeccable craft and platform references.",
+      "license": "MIT AND Apache-2.0",
+      "release": "https://github.com/Leotus-Richard/frontend-design/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "git-delivery",
+      "sha": "163f329240eff100b102ccebe1db2a8da96036a5",
+      "repository": "Leotus-Richard/git-delivery",
+      "version": "0.1.0",
+      "description": "Optional local Git commit preparation and verification; no automatic publication.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/git-delivery/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "grounded-communication",
+      "sha": "370a00885efb3a699f50bef5ef7ae40b92fe1085",
+      "repository": "Leotus-Richard/grounded-communication",
+      "version": "0.1.0",
+      "description": "Draft and review technical communication for evidence, source fidelity, clarity, and audience fit.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/grounded-communication/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "llm-engineering",
+      "sha": "1e6dff432d6c1980f1abafea6956fe7322549b88",
+      "repository": "Leotus-Richard/llm-engineering",
+      "version": "0.1.0",
+      "description": "Prompt contracts, LLM evaluation, and RAG design.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/llm-engineering/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "ml-experimentation",
+      "sha": "5b6156cc8da5e9b80c530fbdeeeb59cd1fb6dfcd",
+      "repository": "Leotus-Richard/ml-experimentation",
+      "version": "0.1.0",
+      "description": "Reproducible ML experiment plans and interpretability claim review.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/ml-experimentation/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "program-management",
+      "sha": "dfb33c44cf5ed8348a773b4103b8d1df51e0aaf0",
+      "repository": "Leotus-Richard/program-management",
+      "version": "0.1.0",
+      "description": "Draft program charters, delivery plans, risk registers, stakeholder plans, and evidence-grounded status reports.",
+      "license": "MIT AND Apache-2.0",
+      "release": "https://github.com/Leotus-Richard/program-management/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "requirements-discovery",
+      "sha": "023baa5f619cf3ecdca57d1296c6fff302ebe428",
+      "repository": "Leotus-Richard/requirements-discovery",
+      "version": "0.1.0",
+      "description": "Clarify requirements through focused interviews, synthesize specifications, and draft stakeholder questionnaires.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/requirements-discovery/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "security-assurance",
+      "sha": "8bff56e26eb43c9d0fac17000d59a01ba16f2938",
+      "repository": "Leotus-Richard/security-assurance",
+      "version": "0.1.0",
+      "description": "Threat modeling, supply-chain findings, and policy-as-code review artifacts.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/security-assurance/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "software-architecture",
+      "sha": "717e785366e3749817a8a67983ecdf5b7422c8f0",
+      "repository": "Leotus-Richard/software-architecture",
+      "version": "0.1.0",
+      "description": "Design domain models, module boundaries, TypeScript contracts, and decision-focused prototypes.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/software-architecture/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "systems-thinking",
+      "sha": "ed691e696cc51d8243f4a606eea42a61ad08825a",
+      "repository": "Leotus-Richard/systems-thinking",
+      "version": "0.1.0",
+      "description": "Analyze uncertain problems through evidence, first principles, system context, and bounded experiments.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/systems-thinking/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "testing-and-debugging",
+      "sha": "681f65e9d1cd3fe4f349c5ea29d779886aa16704",
+      "repository": "Leotus-Richard/testing-and-debugging",
+      "version": "0.1.0",
+      "description": "Develop features test-first, reproduce bugs, and prove regression fixes through observed behavior.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/testing-and-debugging/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "work-tracking",
+      "sha": "b97c440714af46734e031616e9147980b3a123d6",
+      "repository": "Leotus-Richard/work-tracking",
+      "version": "0.1.0",
+      "description": "Canonical work graphs, ticket drafts, triage, and tracker-neutral local exports.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/work-tracking/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
+      "name": "workflow-feedback",
+      "sha": "3cb66603e6496af73b8362211388d681d6e71591",
+      "repository": "Leotus-Richard/workflow-feedback",
+      "version": "0.1.0",
+      "description": "Connect observations, decisions, authorized actions, and outcomes into useful workflow feedback.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/workflow-feedback/releases/tag/v0.1.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    }
+  ]
+}
