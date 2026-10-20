@@ -1,0 +1,201 @@
+{
+  "name": "leorichard-library",
+  "owner": {
+    "name": "Leotus-Richard"
+  },
+  "metadata": {
+    "description": "Independent engineering plugins, each maintained in its own repository."
+  },
+  "plugins": [
+    {
+      "name": "agent-instruction-authoring",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/agent-instruction-authoring",
+        "sha": "2ed7db6304518e06a8b00fa49b6a39f368fcdbd6"
+      },
+      "version": "0.1.0",
+      "description": "Focused skill/instruction authoring and portability review, without auto-installing the result."
+    },
+    {
+      "name": "agent-role-presets",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/agent-role-presets",
+        "sha": "60ea332489ce66a8ef23547d4beadc55ee8980b4"
+      },
+      "version": "0.1.0",
+      "description": "Configure advisor, researcher, librarian, tutor, editor, and cross-domain perspectives for a task."
+    },
+    {
+      "name": "agent-workflow-design",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/agent-workflow-design",
+        "sha": "08bc4ebd0487035d3e7b70bba1d1bb613905bff7"
+      },
+      "version": "0.1.0",
+      "description": "Workflow graphs, bounded coordination, comparison rubrics, and handoffs; no scheduler/runtime."
+    },
+    {
+      "name": "application-verification",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/application-verification",
+        "sha": "9d89a182ca16c3d10972a91475acd6bba9f21aee"
+      },
+      "version": "0.1.0",
+      "description": "Create and maintain application verification harnesses, exercise CLI/UI behavior, and assess performance evidence."
+    },
+    {
+      "name": "applied-learning",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/applied-learning",
+        "sha": "0b7900cc3deb1a1af0805ff1f287619284634493"
+      },
+      "version": "0.1.0",
+      "description": "Learn technical material through focused explanation, critical questions, recall, and practical exercises."
+    },
+    {
+      "name": "code-quality-review",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/code-quality-review",
+        "sha": "e3d84124e54f7491061f8a8d31de40164ce40597"
+      },
+      "version": "0.1.0",
+      "description": "Review changes for correctness and design quality, and simplify generated code without changing required behavior."
+    },
+    {
+      "name": "frontend-design",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/frontend-design",
+        "sha": "b1ce71be276ca33c5ce829ca80d03150f4cd95fd"
+      },
+      "version": "0.1.0",
+      "description": "Design, review, and refine frontend interfaces using portable Impeccable craft and platform references."
+    },
+    {
+      "name": "git-delivery",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/git-delivery",
+        "sha": "163f329240eff100b102ccebe1db2a8da96036a5"
+      },
+      "version": "0.1.0",
+      "description": "Optional local Git commit preparation and verification; no automatic publication."
+    },
+    {
+      "name": "grounded-communication",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/grounded-communication",
+        "sha": "370a00885efb3a699f50bef5ef7ae40b92fe1085"
+      },
+      "version": "0.1.0",
+      "description": "Draft and review technical communication for evidence, source fidelity, clarity, and audience fit."
+    },
+    {
+      "name": "llm-engineering",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/llm-engineering",
+        "sha": "1e6dff432d6c1980f1abafea6956fe7322549b88"
+      },
+      "version": "0.1.0",
+      "description": "Prompt contracts, LLM evaluation, and RAG design."
+    },
+    {
+      "name": "ml-experimentation",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/ml-experimentation",
+        "sha": "5b6156cc8da5e9b80c530fbdeeeb59cd1fb6dfcd"
+      },
+      "version": "0.1.0",
+      "description": "Reproducible ML experiment plans and interpretability claim review."
+    },
+    {
+      "name": "program-management",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/program-management",
+        "sha": "25272ac55a95ec0f76799e0bc3897bc6a68b320e"
+      },
+      "version": "0.1.0",
+      "description": "Draft program charters, delivery plans, risk registers, stakeholder plans, and evidence-grounded status reports."
+    },
+    {
+      "name": "requirements-discovery",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/requirements-discovery",
+        "sha": "a06a052d7842931ab91ed0f0d89f8e00e253c578"
+      },
+      "version": "0.1.0",
+      "description": "Clarify requirements through focused interviews, synthesize specifications, and draft stakeholder questionnaires."
+    },
+    {
+      "name": "security-assurance",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/security-assurance",
+        "sha": "8bff56e26eb43c9d0fac17000d59a01ba16f2938"
+      },
+      "version": "0.1.0",
+      "description": "Threat modeling, supply-chain findings, and policy-as-code review artifacts."
+    },
+    {
+      "name": "software-architecture",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/software-architecture",
+        "sha": "fda174a4b926d9bff1f22c804d8d7f0c56b61634"
+      },
+      "version": "0.1.0",
+      "description": "Design domain models, module boundaries, TypeScript contracts, and decision-focused prototypes."
+    },
+    {
+      "name": "systems-thinking",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/systems-thinking",
+        "sha": "ed691e696cc51d8243f4a606eea42a61ad08825a"
+      },
+      "version": "0.1.0",
+      "description": "Analyze uncertain problems through evidence, first principles, system context, and bounded experiments."
+    },
+    {
+      "name": "testing-and-debugging",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/testing-and-debugging",
+        "sha": "76ebc3837b51d9021c2171e8836850be1f19d86c"
+      },
+      "version": "0.1.0",
+      "description": "Develop features test-first, reproduce bugs, and prove regression fixes through observed behavior."
+    },
+    {
+      "name": "work-tracking",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/work-tracking",
+        "sha": "b97c440714af46734e031616e9147980b3a123d6"
+      },
+      "version": "0.1.0",
+      "description": "Canonical work graphs, ticket drafts, triage, and tracker-neutral local exports."
+    },
+    {
+      "name": "workflow-feedback",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/workflow-feedback",
+        "sha": "3cb66603e6496af73b8362211388d681d6e71591"
+      },
+      "version": "0.1.0",
+      "description": "Connect observations, decisions, authorized actions, and outcomes into useful workflow feedback."
+    }
+  ]
+}

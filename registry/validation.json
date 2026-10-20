@@ -1,0 +1,240 @@
+{
+  "checkedOn": "2026-10-20",
+  "pluginCount": 19,
+  "activeSkillCount": 32,
+  "publicReleaseAssets": 95,
+  "catalogSha256": {
+    ".agents/plugins/marketplace.json": "2cef407d1fc83504a8a71d9b91a895bd2b8af817a0f0d3f9ec852dc6c66a2694",
+    ".claude-plugin/marketplace.json": "c4ede5c8a9f766f2b114122b1d3e15cb866c76d82f6d1627beb8c885218cbc6e"
+  },
+  "packageCi": [
+    {
+      "plugin": "agent-instruction-authoring",
+      "sha": "2ed7db6304518e06a8b00fa49b6a39f368fcdbd6",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/agent-instruction-authoring/actions/runs/39458599053"
+    },
+    {
+      "plugin": "agent-role-presets",
+      "sha": "60ea332489ce66a8ef23547d4beadc55ee8980b4",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/agent-role-presets/actions/runs/39458969408"
+    },
+    {
+      "plugin": "agent-workflow-design",
+      "sha": "08bc4ebd0487035d3e7b70bba1d1bb613905bff7",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/agent-workflow-design/actions/runs/39458595353"
+    },
+    {
+      "plugin": "application-verification",
+      "sha": "9d89a182ca16c3d10972a91475acd6bba9f21aee",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/application-verification/actions/runs/39459689722"
+    },
+    {
+      "plugin": "applied-learning",
+      "sha": "0b7900cc3deb1a1af0805ff1f287619284634493",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/applied-learning/actions/runs/39458577753"
+    },
+    {
+      "plugin": "code-quality-review",
+      "sha": "e3d84124e54f7491061f8a8d31de40164ce40597",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/code-quality-review/actions/runs/39459690048"
+    },
+    {
+      "plugin": "frontend-design",
+      "sha": "b1ce71be276ca33c5ce829ca80d03150f4cd95fd",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/frontend-design/actions/runs/39459698081"
+    },
+    {
+      "plugin": "git-delivery",
+      "sha": "163f329240eff100b102ccebe1db2a8da96036a5",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/git-delivery/actions/runs/39458590042"
+    },
+    {
+      "plugin": "grounded-communication",
+      "sha": "370a00885efb3a699f50bef5ef7ae40b92fe1085",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/grounded-communication/actions/runs/39458570988"
+    },
+    {
+      "plugin": "llm-engineering",
+      "sha": "1e6dff432d6c1980f1abafea6956fe7322549b88",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/llm-engineering/actions/runs/39458601628"
+    },
+    {
+      "plugin": "ml-experimentation",
+      "sha": "5b6156cc8da5e9b80c530fbdeeeb59cd1fb6dfcd",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/ml-experimentation/actions/runs/39458599109"
+    },
+    {
+      "plugin": "program-management",
+      "sha": "25272ac55a95ec0f76799e0bc3897bc6a68b320e",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/program-management/actions/runs/39459696957"
+    },
+    {
+      "plugin": "requirements-discovery",
+      "sha": "a06a052d7842931ab91ed0f0d89f8e00e253c578",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/requirements-discovery/actions/runs/39459696507"
+    },
+    {
+      "plugin": "security-assurance",
+      "sha": "8bff56e26eb43c9d0fac17000d59a01ba16f2938",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/security-assurance/actions/runs/39458609986"
+    },
+    {
+      "plugin": "software-architecture",
+      "sha": "fda174a4b926d9bff1f22c804d8d7f0c56b61634",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/software-architecture/actions/runs/39459689014"
+    },
+    {
+      "plugin": "systems-thinking",
+      "sha": "ed691e696cc51d8243f4a606eea42a61ad08825a",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/systems-thinking/actions/runs/39458570026"
+    },
+    {
+      "plugin": "testing-and-debugging",
+      "sha": "76ebc3837b51d9021c2171e8836850be1f19d86c",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/testing-and-debugging/actions/runs/39459688904"
+    },
+    {
+      "plugin": "work-tracking",
+      "sha": "b97c440714af46734e031616e9147980b3a123d6",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/work-tracking/actions/runs/39458584763"
+    },
+    {
+      "plugin": "workflow-feedback",
+      "sha": "3cb66603e6496af73b8362211388d681d6e71591",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/workflow-feedback/actions/runs/39458579612"
+    }
+  ],
+  "hostValidation": {
+    "codex": "19 installed and enabled in a fresh isolated profile from the GitHub catalog; all source pins match",
+    "claude": "19 native manifests validated",
+    "geminiCli": "19 release adapters accepted by native extension validation",
+    "antigravityCli": "19 release adapters accepted by native plugin validation",
+    "cursor": "19 portable adapters generated and structurally tested; IDE and agent CLI behavior unverified",
+    "liveAgentBehavior": "not tested; no model calls",
+    "globalHostRegistrations": "not changed by publication validation",
+    "grokbot": "conditional; target product/import interface unidentified"
+  },
+  "releaseVerification": "All 95 downloaded assets match the locally built artifacts from the pinned committed Git source bytes.",
+  "excludedSourceFamily": [
+    "swe",
+    "swe-audit",
+    "swe-debt",
+    "swe-gain",
+    "swe-help",
+    "swe-review"
+  ]
+}

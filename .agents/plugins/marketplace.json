@@ -1,0 +1,255 @@
+{
+  "name": "leorichard-library",
+  "interface": {
+    "displayName": "LeoRichard Plugin Library"
+  },
+  "plugins": [
+    {
+      "name": "agent-instruction-authoring",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/agent-instruction-authoring.git",
+        "sha": "2ed7db6304518e06a8b00fa49b6a39f368fcdbd6"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "agent-role-presets",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/agent-role-presets.git",
+        "sha": "60ea332489ce66a8ef23547d4beadc55ee8980b4"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "agent-workflow-design",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/agent-workflow-design.git",
+        "sha": "08bc4ebd0487035d3e7b70bba1d1bb613905bff7"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "application-verification",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/application-verification.git",
+        "sha": "9d89a182ca16c3d10972a91475acd6bba9f21aee"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "applied-learning",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/applied-learning.git",
+        "sha": "0b7900cc3deb1a1af0805ff1f287619284634493"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "code-quality-review",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/code-quality-review.git",
+        "sha": "e3d84124e54f7491061f8a8d31de40164ce40597"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "frontend-design",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/frontend-design.git",
+        "sha": "b1ce71be276ca33c5ce829ca80d03150f4cd95fd"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "git-delivery",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/git-delivery.git",
+        "sha": "163f329240eff100b102ccebe1db2a8da96036a5"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "grounded-communication",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/grounded-communication.git",
+        "sha": "370a00885efb3a699f50bef5ef7ae40b92fe1085"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "llm-engineering",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/llm-engineering.git",
+        "sha": "1e6dff432d6c1980f1abafea6956fe7322549b88"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "ml-experimentation",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/ml-experimentation.git",
+        "sha": "5b6156cc8da5e9b80c530fbdeeeb59cd1fb6dfcd"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "program-management",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/program-management.git",
+        "sha": "25272ac55a95ec0f76799e0bc3897bc6a68b320e"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "requirements-discovery",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/requirements-discovery.git",
+        "sha": "a06a052d7842931ab91ed0f0d89f8e00e253c578"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "security-assurance",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/security-assurance.git",
+        "sha": "8bff56e26eb43c9d0fac17000d59a01ba16f2938"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "software-architecture",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/software-architecture.git",
+        "sha": "fda174a4b926d9bff1f22c804d8d7f0c56b61634"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "systems-thinking",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/systems-thinking.git",
+        "sha": "ed691e696cc51d8243f4a606eea42a61ad08825a"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "testing-and-debugging",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/testing-and-debugging.git",
+        "sha": "76ebc3837b51d9021c2171e8836850be1f19d86c"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "work-tracking",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/work-tracking.git",
+        "sha": "b97c440714af46734e031616e9147980b3a123d6"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "workflow-feedback",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/workflow-feedback.git",
+        "sha": "3cb66603e6496af73b8362211388d681d6e71591"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
