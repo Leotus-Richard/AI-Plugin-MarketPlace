@@ -55,3 +55,7 @@ The separate desktop workbench roadmap covers configurable CLI tooling, durable 
 ## Maintaining a release
 
 Change and validate one plugin in its own repository, publish its versioned release, then update that plugin's full commit pin in the registry and regenerate both catalogs. Review changes through a work-item-linked pull request. Do not move an existing release tag or silently replace source pins.
+
+## Initial release evidence
+
+[Validation results](registry/validation.json) record the exact source CI runs, 19 enabled Codex installs in an isolated profile, native adapter checks, and the limits of that evidence. [Release asset checksums](registry/release-assets.sha256) cover all 95 downloaded files. Publication validation does not change existing global host registrations.
