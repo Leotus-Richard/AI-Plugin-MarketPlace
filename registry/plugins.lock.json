@@ -57,7 +57,7 @@
     },
     {
       "name": "application-verification",
-      "sha": "c4ba017a39a4a481df4d38e66ff6d227608c57f9",
+      "sha": "9d89a182ca16c3d10972a91475acd6bba9f21aee",
       "repository": "Leotus-Richard/application-verification",
       "version": "0.1.0",
       "description": "Create and maintain application verification harnesses, exercise CLI/UI behavior, and assess performance evidence.",
@@ -93,7 +93,7 @@
     },
     {
       "name": "code-quality-review",
-      "sha": "add467aaeb1f79b3681443b948b8c2a7b592c52c",
+      "sha": "e3d84124e54f7491061f8a8d31de40164ce40597",
       "repository": "Leotus-Richard/code-quality-review",
       "version": "0.1.0",
       "description": "Review changes for correctness and design quality, and simplify generated code without changing required behavior.",
@@ -111,7 +111,7 @@
     },
     {
       "name": "frontend-design",
-      "sha": "0ca35207e73ce8db9ad84b2675a234e77288853e",
+      "sha": "b1ce71be276ca33c5ce829ca80d03150f4cd95fd",
       "repository": "Leotus-Richard/frontend-design",
       "version": "0.1.0",
       "description": "Design, review, and refine frontend interfaces using portable Impeccable craft and platform references.",
@@ -201,7 +201,7 @@
     },
     {
       "name": "program-management",
-      "sha": "dfb33c44cf5ed8348a773b4103b8d1df51e0aaf0",
+      "sha": "25272ac55a95ec0f76799e0bc3897bc6a68b320e",
       "repository": "Leotus-Richard/program-management",
       "version": "0.1.0",
       "description": "Draft program charters, delivery plans, risk registers, stakeholder plans, and evidence-grounded status reports.",
@@ -219,7 +219,7 @@
     },
     {
       "name": "requirements-discovery",
-      "sha": "023baa5f619cf3ecdca57d1296c6fff302ebe428",
+      "sha": "a06a052d7842931ab91ed0f0d89f8e00e253c578",
       "repository": "Leotus-Richard/requirements-discovery",
       "version": "0.1.0",
       "description": "Clarify requirements through focused interviews, synthesize specifications, and draft stakeholder questionnaires.",
@@ -255,7 +255,7 @@
     },
     {
       "name": "software-architecture",
-      "sha": "717e785366e3749817a8a67983ecdf5b7422c8f0",
+      "sha": "fda174a4b926d9bff1f22c804d8d7f0c56b61634",
       "repository": "Leotus-Richard/software-architecture",
       "version": "0.1.0",
       "description": "Design domain models, module boundaries, TypeScript contracts, and decision-focused prototypes.",
@@ -291,7 +291,7 @@
     },
     {
       "name": "testing-and-debugging",
-      "sha": "681f65e9d1cd3fe4f349c5ea29d779886aa16704",
+      "sha": "76ebc3837b51d9021c2171e8836850be1f19d86c",
       "repository": "Leotus-Richard/testing-and-debugging",
       "version": "0.1.0",
       "description": "Develop features test-first, reproduce bugs, and prove regression fixes through observed behavior.",
