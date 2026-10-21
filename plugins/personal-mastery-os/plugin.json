@@ -1,0 +1,18 @@
+{
+  "name": "personal-mastery-os",
+  "version": "1.0.0",
+  "description": "A suite of 4 agentic skills and cognitive workflows for self-education (ALTER, ACTOR, TRAP), first-principles & systems thinking (DARE, DART), original writing & creativity (VOICE, EDGE), and executive high-performance coaching (4 Mental Brakes, Proof Pyramid, CARE).",
+  "author": "Leotus Richard",
+  "skills": [
+    "skills/university-in-a-box/SKILL.md",
+    "skills/first-principles-systems/SKILL.md",
+    "skills/voice-edge-creator/SKILL.md",
+    "skills/high-performance-coach/SKILL.md"
+  ],
+  "commands": [
+    "/alter", "/actor", "/trap",
+    "/dare", "/dart", "/aim",
+    "/voice", "/edge",
+    "/brakes", "/proof", "/care", "/lead"
+  ]
+}
