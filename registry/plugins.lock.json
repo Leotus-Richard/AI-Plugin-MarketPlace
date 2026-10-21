@@ -200,6 +200,24 @@
       }
     },
     {
+      "name": "personal-mastery-os",
+      "sha": "6d0fccb05f9aa3be164fa4015fc23d9db8ec6cb4",
+      "repository": "Leotus-Richard/personal-mastery-os",
+      "version": "1.0.0",
+      "description": "A suite of 4 agentic skills and cognitive workflows for self-education, systems thinking, original writing, and executive coaching.",
+      "license": "MIT",
+      "release": "https://github.com/Leotus-Richard/personal-mastery-os/releases/tag/v1.0.0",
+      "validation": {
+        "structural": "passed",
+        "releaseAdapters": [
+          "cursor",
+          "gemini",
+          "antigravity"
+        ],
+        "liveAgentBehavior": "not verified for this release"
+      }
+    },
+    {
       "name": "program-management",
       "sha": "25272ac55a95ec0f76799e0bc3897bc6a68b320e",
       "repository": "Leotus-Richard/program-management",

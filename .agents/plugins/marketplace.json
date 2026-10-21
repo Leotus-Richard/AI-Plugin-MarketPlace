@@ -148,6 +148,19 @@
       "category": "Productivity"
     },
     {
+      "name": "personal-mastery-os",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Leotus-Richard/personal-mastery-os.git",
+        "sha": "6d0fccb05f9aa3be164fa4015fc23d9db8ec6cb4"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "program-management",
       "source": {
         "source": "url",

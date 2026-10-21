@@ -1,6 +1,6 @@
 # LeoRichard Plugin Library
 
-A GitHub marketplace of 19 independent engineering plugins. Install a capability on its own; each plugin has a separate repository and versioned release. The marketplace contains catalog metadata and documentation rather than a monolithic toolkit.
+A GitHub marketplace of 20 independent engineering and personal mastery plugins. Install a capability on its own; each plugin has a separate repository and versioned release. The marketplace contains catalog metadata and documentation rather than a monolithic toolkit.
 
 ## Install
 
@@ -29,6 +29,7 @@ See [installation](docs/installation.md) for existing local registrations, nativ
 | [grounded-communication](https://github.com/Leotus-Richard/grounded-communication) | Draft and review technical communication for evidence, source fidelity, clarity, and audience fit. | MIT |
 | [llm-engineering](https://github.com/Leotus-Richard/llm-engineering) | Prompt contracts, LLM evaluation, and RAG design. | MIT |
 | [ml-experimentation](https://github.com/Leotus-Richard/ml-experimentation) | Reproducible ML experiment plans and interpretability claim review. | MIT |
+| [personal-mastery-os](https://github.com/Leotus-Richard/personal-mastery-os) | A suite of 4 agentic skills and cognitive workflows for self-education, systems thinking, original writing, and executive coaching. | MIT |
 | [program-management](https://github.com/Leotus-Richard/program-management) | Draft program charters, delivery plans, risk registers, stakeholder plans, and evidence-grounded status reports. | MIT AND Apache-2.0 |
 | [requirements-discovery](https://github.com/Leotus-Richard/requirements-discovery) | Clarify requirements through focused interviews, synthesize specifications, and draft stakeholder questionnaires. | MIT |
 | [security-assurance](https://github.com/Leotus-Richard/security-assurance) | Threat modeling, supply-chain findings, and policy-as-code review artifacts. | MIT |
@@ -58,4 +59,4 @@ Change and validate one plugin in its own repository, publish its versioned rele
 
 ## Initial release evidence
 
-[Validation results](registry/validation.json) record the exact source CI runs, 19 enabled Codex installs in an isolated profile, native adapter checks, and the limits of that evidence. [Release asset checksums](registry/release-assets.sha256) cover all 95 downloaded files. Publication validation does not change existing global host registrations.
+[Validation results](registry/validation.json) record the exact source CI runs, 20 enabled Codex installs in an isolated profile, native adapter checks, and the limits of that evidence. [Release asset checksums](registry/release-assets.sha256) cover all 100 downloaded files. Publication validation does not change existing global host registrations.

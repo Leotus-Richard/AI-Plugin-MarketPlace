@@ -118,6 +118,16 @@
       "description": "Reproducible ML experiment plans and interpretability claim review."
     },
     {
+      "name": "personal-mastery-os",
+      "source": {
+        "source": "github",
+        "repo": "Leotus-Richard/personal-mastery-os",
+        "sha": "6d0fccb05f9aa3be164fa4015fc23d9db8ec6cb4"
+      },
+      "version": "1.0.0",
+      "description": "A suite of 4 agentic skills and cognitive workflows for self-education, systems thinking, original writing, and executive coaching."
+    },
+    {
       "name": "program-management",
       "source": {
         "source": "github",

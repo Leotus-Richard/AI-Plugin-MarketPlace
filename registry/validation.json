@@ -1,11 +1,11 @@
 {
-  "checkedOn": "2026-10-20",
-  "pluginCount": 19,
-  "activeSkillCount": 32,
-  "publicReleaseAssets": 95,
+  "checkedOn": "2026-10-21",
+  "pluginCount": 20,
+  "activeSkillCount": 36,
+  "publicReleaseAssets": 100,
   "catalogSha256": {
-    ".agents/plugins/marketplace.json": "2cef407d1fc83504a8a71d9b91a895bd2b8af817a0f0d3f9ec852dc6c66a2694",
-    ".claude-plugin/marketplace.json": "c4ede5c8a9f766f2b114122b1d3e15cb866c76d82f6d1627beb8c885218cbc6e"
+    ".agents/plugins/marketplace.json": "50da3656e0fa5433069ff89d424afdfa7b8e7faf2f623af4d55fc2fc32b566f6",
+    ".claude-plugin/marketplace.json": "85973de0fd9fca72fda299d1a8dc0177402b172853e75af028662d718309c308"
   },
   "packageCi": [
     {
@@ -128,6 +128,17 @@
         "Linux"
       ],
       "url": "https://github.com/Leotus-Richard/ml-experimentation/actions/runs/39458599109"
+    },
+    {
+      "plugin": "personal-mastery-os",
+      "sha": "6d0fccb05f9aa3be164fa4015fc23d9db8ec6cb4",
+      "result": "success",
+      "operatingSystems": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "url": "https://github.com/Leotus-Richard/personal-mastery-os/actions/runs/39554838260"
     },
     {
       "plugin": "program-management",
